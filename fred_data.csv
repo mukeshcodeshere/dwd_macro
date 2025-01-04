@@ -26404,6 +26404,7 @@ date,Value,Ticker,Name
 2024-12-31,0.33,T10Y2Y,10-Year Treasury Minus 2-Year Treasury Spread
 2025-01-01,,T10Y2Y,10-Year Treasury Minus 2-Year Treasury Spread
 2025-01-02,0.32,T10Y2Y,10-Year Treasury Minus 2-Year Treasury Spread
+2025-01-03,0.32,T10Y2Y,10-Year Treasury Minus 2-Year Treasury Spread
 1986-01-02,2.34,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
 1986-01-03,2.3,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
 1986-01-06,2.29,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
@@ -36578,6 +36579,8 @@ date,Value,Ticker,Name
 2024-12-27,1.4,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
 2024-12-30,1.43,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
 2024-12-31,1.42,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
+2025-01-01,,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
+2025-01-02,1.45,BAA10Y,Moody’s BAA Corporate Bond Yield Spread
 1993-12-31,0.259,STLFSI,St. Louis Fed Financial Stress Index
 1994-01-07,0.303,STLFSI,St. Louis Fed Financial Stress Index
 1994-01-14,0.246,STLFSI,St. Louis Fed Financial Stress Index
@@ -46394,6 +46397,7 @@ date,Value,Ticker,Name
 2024-12-31,473.46,RRPONTSYD,Overnight Reverse Repo Agreements
 2025-01-01,,RRPONTSYD,Overnight Reverse Repo Agreements
 2025-01-02,239.858,RRPONTSYD,Overnight Reverse Repo Agreements
+2025-01-03,237.377,RRPONTSYD,Overnight Reverse Repo Agreements
 1943-01-01,6.57783,TOTALSL,"Total Assets, Liquidity Facilities"
 1943-02-01,6.46304,TOTALSL,"Total Assets, Liquidity Facilities"
 1943-03-01,6.23421,TOTALSL,"Total Assets, Liquidity Facilities"
@@ -73129,3 +73133,4 @@ date,Value,Ticker,Name
 2024-12-30,4.33,DFF,Effective Federal Funds Rate
 2024-12-31,4.33,DFF,Effective Federal Funds Rate
 2025-01-01,4.33,DFF,Effective Federal Funds Rate
+2025-01-02,4.33,DFF,Effective Federal Funds Rate
